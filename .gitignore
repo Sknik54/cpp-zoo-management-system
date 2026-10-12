@@ -1,0 +1,22 @@
+# CLion / JetBrains
+.idea/
+*.iml
+
+# CMake and build artifacts
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+.ninja_*
+compile_commands.json
+
+# Binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# Local runtime data
+zoo

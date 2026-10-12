@@ -1,0 +1,18 @@
+[animals]
+0 Pingu 3
+1 Elli 2
+2 test 2
+3 test 4
+
+[enclosures]
+0 Elefantenhaus 4
+1 %Wueste und Steppe% 7
+2 test 2
+3 %test savanne% 2
+4 testsavanne 2
+5 test 3
+6 test 3
+
+[assignments]
+0 1
+1 0
